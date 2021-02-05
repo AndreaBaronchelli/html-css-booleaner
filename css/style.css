@@ -88,3 +88,7 @@ table {
 #screen {
   background-image: url("../img/graph.jpg");
 }
+
+#description {
+  width: 50%;
+}
