@@ -9,7 +9,7 @@ header {
 
 h1 {
   font-size: 40px;
-  margin: 20px auto 10px auto;
+  margin: 10px auto;
 }
 
 main {
@@ -67,7 +67,7 @@ table {
 /*SELECT ID*/
 #logo {
   height: 50px;
-  margin-top: 50px;
+  margin-top: 40px;
 }
 
 #date {
