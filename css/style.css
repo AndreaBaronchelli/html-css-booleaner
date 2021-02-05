@@ -23,13 +23,14 @@ thead {
 }
 
 table {
-  margin: 0px;
+  width: 100%;
 }
 /*SELECT CLASS*/
 .author {
   color: #4ea0ff;
 }
-.container-logo {
+.container {
+  height: 100%;
   width: 75%;
   margin: 10px auto;
 }
@@ -64,8 +65,8 @@ table {
 
 /*SELECT ID*/
 #logo {
-  width: 150px;
-  margin: auto;
+  height: 50px;
+  margin-top: 50px;
 }
 
 #date {
