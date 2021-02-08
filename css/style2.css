@@ -23,7 +23,7 @@ header {
   
   thead {
     color: white;
-    background-color: #20a9e5;
+    background-color: #031922;
     text-align: left;
   }
   
@@ -31,6 +31,7 @@ header {
     width: 100%;
     border-collapse: collapse;
     background-color: gray;
+    border: 1px solid white;
   }
   
   /*SELECT CLASS*/
@@ -39,8 +40,9 @@ header {
   }
   .container {
     height: 100%;
-    width: 75%;
-    margin: 10px auto;
+    width: 15%;
+    margin: auto;
+    
   }
   
   .info {
@@ -59,7 +61,7 @@ header {
   }
   
   .blue {
-    background-color: #b1e5f2;
+    background-color: #033441;
   }
   
   .image {
@@ -71,7 +73,7 @@ header {
     font-weight: bold;
     padding: 15px;
   }
-  
+
   /*SELECT ID*/
   #logo {
     height: 50px;
